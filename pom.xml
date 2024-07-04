@@ -9,6 +9,7 @@
 		<version>3.3.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	<!--Comentario agregado desde GutHub -->
 	<groupId>edu.utvt</groupId>
 	<artifactId>CustomerRestApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
